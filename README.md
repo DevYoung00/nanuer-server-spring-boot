@@ -42,10 +42,6 @@
 |:---:|:---:|:---:|:---:|
 |유아영|김가영|고동우, 현준현|신대희, 이여진, 유아영|
 
-**랜딩페이지**
-<br/> 
-https://www.notion.so/kidzero/8d99ca190ca04a08a131eab5dac4b4da
-<br/> 
 **시연 영상**
 <br/> 
 https://www.notion.so/kidzero/Click-0cb47b599c7e4fb29d7417717f650c29
